@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"gituhb.com/preslavrachev/pipe"
+	"github.com/preslavrachev/pipe"
 )
 
 type Customer struct {
